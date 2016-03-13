@@ -4,7 +4,7 @@
 El alumno aplicará los conocimientos adquiridos hasta el momento instalando un servidor de voz por ip (VOIP) dentro de un servidor de EC2
 
 ## Especificaciones
-Preparar un reporte detallado en el cual se cubran los siguientes puntos de la manera más detallada posible. En el caso de la instalación de asterisk de deberá reportar paso a paso mediante tomas de pantalla en las cuales se muestre el paso en ejecución.
+Preparar un reporte en el cual se cubran los siguientes puntos de la manera más detallada posible. En el caso de la instalación de asterisk de deberá reportar paso a paso mediante tomas de pantalla en las cuales se muestre el paso en ejecución.
 
 ### Investigación previa:
 1. Investigar en que consiste la VOIP.
