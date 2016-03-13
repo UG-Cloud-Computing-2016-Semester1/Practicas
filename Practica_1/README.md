@@ -53,7 +53,7 @@ Preparar un reporte detallado en el cual se cubran los siguientes puntos de la m
   Nota: En este punto el prompt debe cambiar como se muestra en la imagen.
   ![asterisk service](http://res.cloudinary.com/juancrg90/image/upload/e_sepia/v1457843316/asterisk-r_jxzhsv.png)
 6. Configurar el cliente de VOIP  
-  i. Este punto se deja a consideración del alumno utilizar el software de su preferencia.  
+  i. Este punto se deja a consideración del alumno utilizar el softphone de su preferencia.  
   Si la conexión del cliente con el servidor es exitosa se deberá ver en el prompt de asterisk un mensaje similar al siguiente:
   ![asterisk client reachable](http://res.cloudinary.com/juancrg90/image/upload/e_sepia/v1457843769/client-reachable_idn9ai.png)
   ii. Para verificar que el cliente ya esta correctamente enlazado, marcar `*98` 
