@@ -48,7 +48,7 @@ Preparar un reporte en el cual se cubran los siguientes puntos de la manera más
   ii. Reemplazar el contenido del archivo **sip.conf** con el contenido archivo **sip.conf** de este repositorio.  
   iii. Reemplazar el contenido del archivo **extensions.conf** con el contenido del archivo **extensions.conf** de este repositorio.
 5. Ejecutar Asterisk en el servidor.  
-  i. Correr el comando `asterisk`
+  i. Correr el comando `asterisk`  
   ii. Correr el comando `asterisk -r`  
   Nota: En este punto el prompt debe cambiar como se muestra en la imagen.
   ![asterisk service](http://res.cloudinary.com/juancrg90/image/upload/e_sepia/v1457843316/asterisk-r_jxzhsv.png)
