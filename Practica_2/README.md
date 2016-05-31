@@ -4,7 +4,7 @@
 El alumno pondrá en práctica sus conocimientos referentes al uso de buckets de almacenamiento S3, la creación de servicios stateless basados en Amazón Lambda así como la creación de roles de ejecución y políticas de acceso.
 
 # Especificaciones
-Preparar un reporte en el cual se muestre de la manera mas detallada posible el desarrollo de los pasos indicados en el siguiente enlace: [Tutorial AWS Lambda + AWS S3](http://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html)
+Preparar un reporte en el cual se muestre de la manera más detallada posible el desarrollo de los pasos indicados en el siguiente enlace: [Tutorial AWS Lambda + AWS S3](http://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html)
 
 
 * El reporte deberá contener tomas de pantalla de cada uno de los pasos ejecutados durante el desarrollo de la práctica. **Se deberán editar las tomas de pantalla donde se muestren claves de seguridad**.
